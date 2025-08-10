@@ -1,0 +1,110 @@
+$ cd /workspace/shadcn-ui
+$ cd /workspace/shadcn-ui && pnpm i && pnpm run lint
+
+ WARN  Ignoring broken lockfile at /workspace/shadcn-ui/node_modules/.pnpm: Lockfile /workspace/shadcn-ui/node_modules/.pnpm/lock.yaml not compatible with current pnpm
+ WARN  Ignoring broken lockfile at /workspace/shadcn-ui: Lockfile /workspace/shadcn-ui/pnpm-lock.yaml not compatible with current pnpm
+Progress: resolved 1, reused 0, downloaded 0, added 0
+ WARN  deprecated eslint@8.57.1: This version is no longer supported. Please see https://eslint.org/version-support for other options.
+Progress: resolved 39, reused 32, downloaded 3, added 0
+Progress: resolved 55, reused 42, downloaded 10, added 0
+Progress: resolved 67, reused 50, downloaded 14, added 0
+Progress: resolved 175, reused 140, downloaded 31, added 0
+Progress: resolved 298, reused 236, downloaded 58, added 0
+Progress: resolved 390, reused 291, downloaded 74, added 0
+ WARN  5 deprecated subdependencies found: @humanwhocodes/config-array@0.13.0, @humanwhocodes/object-schema@2.0.3, glob@7.2.3, inflight@1.0.6, rimraf@3.0.2
+Packages: +403
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Progress: resolved 425, reused 318, downloaded 85, added 0
+Progress: resolved 425, reused 318, downloaded 85, added 151, done
+
+dependencies:
++ @radix-ui/react-accordion 1.2.11
++ @radix-ui/react-alert-dialog 1.1.14
++ @radix-ui/react-aspect-ratio 1.1.7
++ @radix-ui/react-avatar 1.1.10
++ @radix-ui/react-checkbox 1.3.2
++ @radix-ui/react-collapsible 1.1.11
++ @radix-ui/react-context-menu 2.2.15
++ @radix-ui/react-dialog 1.1.14
++ @radix-ui/react-dropdown-menu 2.1.15
++ @radix-ui/react-hover-card 1.1.14
++ @radix-ui/react-label 2.1.7
++ @radix-ui/react-menubar 1.1.15
++ @radix-ui/react-navigation-menu 1.2.13
++ @radix-ui/react-popover 1.1.14
++ @radix-ui/react-progress 1.1.7
++ @radix-ui/react-radio-group 1.3.7
++ @radix-ui/react-scroll-area 1.2.9
++ @radix-ui/react-select 2.2.5
++ @radix-ui/react-separator 1.1.7
++ @radix-ui/react-slider 1.3.5
++ @radix-ui/react-switch 1.2.5
++ @radix-ui/react-tabs 1.1.12
++ @radix-ui/react-toast 1.2.14
++ @radix-ui/react-toggle 1.1.9
++ @radix-ui/react-toggle-group 1.1.10
++ @radix-ui/react-tooltip 1.2.7
++ @tanstack/react-query 5.84.2
++ @types/uuid 9.0.8 (10.0.0 is available)
++ cmdk 0.2.1 (1.1.1 is available)
++ date-fns 2.30.0 (4.1.0 is available)
++ embla-carousel-react 8.0.0-rc14 (8.6.0 is available)
++ lucide-react 0.292.0 (0.539.0 is available)
++ react-day-picker 8.10.1 (9.8.1 is available)
++ react-resizable-panels 0.0.55 (3.0.4 is available)
++ react-router-dom 6.30.1 (7.8.0 is available)
++ recharts 2.15.4 (3.1.2 is available)
++ sonner 1.7.4 (2.0.7 is available)
++ uuid 9.0.1 (11.1.0 is available)
+
+devDependencies:
++ @types/node 20.19.10 (24.2.1 is available)
++ @typescript-eslint/eslint-plugin 6.21.0 (8.39.0 is available)
++ @typescript-eslint/parser 6.21.0 (8.39.0 is available)
++ @vitejs/plugin-react 4.7.0 (5.0.0 is available)
++ eslint 8.57.1 (9.33.0 is available) deprecated
++ eslint-plugin-react-hooks 4.6.2 (5.2.0 is available)
++ eslint-plugin-react-refresh 0.4.20
++ typescript 5.9.2
++ vite 4.5.14 (7.1.1 is available)
+
+╭ Warning ─────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│   Ignored build scripts: esbuild.                                            │
+│   Run "pnpm approve-builds" to pick which dependencies should be allowed     │
+│   to run scripts.                                                            │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+Done in 11.3s using pnpm v10.14.0
+
+> baking-cost-calculator@0.0.0 lint /workspace/shadcn-ui
+> eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0
+
+Invalid option '--ext' - perhaps you meant '-c'?
+You're using eslint.config.js, some command line flags are no longer available. Please see https://eslint.org/docs/latest/use/command-line-interface for details.
+ ELIFECYCLE  Command failed with exit code 2.
+$ cd /workspace/shadcn-ui && pnpm run lint
+
+
+> baking-cost-calculator@0.0.0 lint /workspace/shadcn-ui
+> eslint src
+
+
+Oops! Something went wrong! :(
+
+ESLint: 8.57.1
+
+TypeError: Error while loading rule '@typescript-eslint/no-unused-expressions': Cannot read properties of undefined (reading 'allowShortCircuit')
+Occurred while linting /workspace/shadcn-ui/src/lib/calculator.ts
+    at Object.create (/workspace/shadcn-ui/node_modules/.pnpm/eslint@9.31.0/node_modules/eslint/lib/rules/no-unused-expressions.js:85:5)
+    at create (/workspace/shadcn-ui/node_modules/.pnpm/@typescript-eslint+eslint-plugin@8.38.0_@typescript-eslint+parser@8.38.0_eslint@9.31.0_typescript@5.8.3/node_modules/@typescript-eslint/eslint-plugin/dist/rules/no-unused-expressions.js:30:32)
+    at Object.create (/workspace/shadcn-ui/node_modules/.pnpm/@typescript-eslint+utils@8.38.0_eslint@9.31.0_typescript@5.8.3/node_modules/@typescript-eslint/utils/dist/eslint-utils/RuleCreator.js:31:20)
+    at createRuleListeners (/workspace/shadcn-ui/node_modules/.pnpm/eslint@8.57.1/node_modules/eslint/lib/linter/linter.js:895:21)
+    at /workspace/shadcn-ui/node_modules/.pnpm/eslint@8.57.1/node_modules/eslint/lib/linter/linter.js:1066:110
+    at Array.forEach (<anonymous>)
+    at runRules (/workspace/shadcn-ui/node_modules/.pnpm/eslint@8.57.1/node_modules/eslint/lib/linter/linter.js:1003:34)
+    at Linter._verifyWithFlatConfigArrayAndWithoutProcessors (/workspace/shadcn-ui/node_modules/.pnpm/eslint@8.57.1/node_modules/eslint/lib/linter/linter.js:1730:31)
+    at Linter._verifyWithFlatConfigArray (/workspace/shadcn-ui/node_modules/.pnpm/eslint@8.57.1/node_modules/eslint/lib/linter/linter.js:1861:21)
+    at Linter.verify (/workspace/shadcn-ui/node_modules/.pnpm/eslint@8.57.1/node_modules/eslint/lib/linter/linter.js:1433:65)
+ ELIFECYCLE  Command failed with exit code 2.

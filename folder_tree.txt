@@ -1,0 +1,717 @@
+Folder PATH listing for volume Professional
+Volume serial number is AE27-6F9C
+D:.
+¦   folder_tree.txt
+¦   
++---.storage
+¦   +---10
+¦   ¦   +---9b7039d2
+¦   ¦           Index.tsx
+¦   ¦           
+¦   +---11
+¦   ¦   +---dc189e94
+¦   ¦           NotFound.tsx
+¦   ¦           
+¦   +---12
+¦   ¦   +---2bb37c19
+¦   ¦           package.json
+¦   ¦           
+¦   +---13
+¦   ¦   +---1ed50827
+¦   ¦           index.html
+¦   ¦           
+¦   +---14
+¦   ¦   +---23865f8a
+¦   ¦           f61f6fbf-ecc9-4883-8ef7-0c54828e1951.txt
+¦   ¦           
+¦   +---15
+¦   ¦   +---ec5f7332
+¦   ¦           package.json
+¦   ¦           
+¦   +---16
+¦   ¦   +---23865f8a
+¦   ¦           f61f6fbf-ecc9-4883-8ef7-0c54828e1951.txt
+¦   ¦           
+¦   +---17
+¦   ¦   +---523029df
+¦   ¦           e3163c1c-dc0a-4473-aa9f-ae5a3dbb5d52.json
+¦   ¦           
+¦   +---18
+¦   ¦   +---4f9163e2
+¦   ¦           recipe-form.tsx
+¦   ¦           
+¦   +---19
+¦   ¦   +---6b34a8a7
+¦   ¦           recipe-results.tsx
+¦   ¦           
+¦   +---2
+¦   ¦   +---de023cb8
+¦   ¦           0092ad26-ba06-41ef-a156-c187f816aa96.json
+¦   ¦           
+¦   +---20
+¦   ¦   +---780f4f53
+¦   ¦           recipe-form.tsx
+¦   ¦           
+¦   +---21
+¦   ¦   +---8964e24c
+¦   ¦           recipe-results.tsx
+¦   ¦           
+¦   +---22
+¦   ¦   +---96baafa6
+¦   ¦           recipe-results.tsx
+¦   ¦           
+¦   +---23
+¦   ¦   +---e73948ad
+¦   ¦           recipe-results.tsx
+¦   ¦           
+¦   +---24
+¦   ¦   +---ff332143
+¦   ¦           39cee6d9-377e-43f9-93fd-80651e3b2d68.json
+¦   ¦           
+¦   +---25
+¦   ¦   +---832f8f81
+¦   ¦           types.ts
+¦   ¦           
+¦   +---26
+¦   ¦   +---c46297ca
+¦   ¦           types.ts
+¦   ¦           
+¦   +---27
+¦   ¦   +---4edfce6d
+¦   ¦           calculator.ts
+¦   ¦           
+¦   +---28
+¦   ¦   +---30e34c20
+¦   ¦           calculator.ts
+¦   ¦           
+¦   +---29
+¦   ¦   +---746383ab
+¦   ¦           recipe-form.tsx
+¦   ¦           
+¦   +---3
+¦   ¦   +---96051829
+¦   ¦           test-6eef38bb-8ff8-4206-8c02-380ad08696ed.json
+¦   ¦           
+¦   +---30
+¦   ¦   +---2cbc490f
+¦   ¦           recipe-form.tsx
+¦   ¦           
+¦   +---31
+¦   ¦   +---110840ae
+¦   ¦           recipe-form.tsx
+¦   ¦           
+¦   +---32
+¦   ¦   +---5c456eb8
+¦   ¦           recipe-form.tsx
+¦   ¦           
+¦   +---33
+¦   ¦   +---dce11403
+¦   ¦           recipe-form.tsx
+¦   ¦           
+¦   +---34
+¦   ¦   +---f6d58d3b
+¦   ¦           recipe-form.tsx
+¦   ¦           
+¦   +---35
+¦   ¦   +---af47bf62
+¦   ¦           recipe-results.tsx
+¦   ¦           
+¦   +---36
+¦   ¦   +---3051945c
+¦   ¦           recipe-results.tsx
+¦   ¦           
+¦   +---37
+¦   ¦   +---9001d9f8
+¦   ¦           f61f6fbf-ecc9-4883-8ef7-0c54828e1951.txt
+¦   ¦           
+¦   +---38
+¦   ¦   +---d8f90372
+¦   ¦           Index.tsx
+¦   ¦           
+¦   +---39
+¦   ¦   +---f201b750
+¦   ¦           Index.tsx
+¦   ¦           
+¦   +---4
+¦   ¦   +---23865f8a
+¦   ¦           f61f6fbf-ecc9-4883-8ef7-0c54828e1951.txt
+¦   ¦           
+¦   +---40
+¦   ¦   +---ba14d8ad
+¦   ¦           2d777fbd-9251-4fe7-b1fa-c8ffc3dbd3ab.json
+¦   ¦           
+¦   +---41
+¦   ¦   +---0034d195
+¦   ¦           90a24ba7-9fa5-49bc-8428-016bda2534c1.json
+¦   ¦           
+¦   +---42
+¦   ¦   +---58fde80e
+¦   ¦           recipe-form.tsx
+¦   ¦           
+¦   +---43
+¦   ¦   +---b8db23a9
+¦   ¦           recipe-results.tsx
+¦   ¦           
+¦   +---44
+¦   ¦   +---8518f8b3
+¦   ¦           recipe-form.tsx
+¦   ¦           
+¦   +---45
+¦   ¦   +---d4520784
+¦   ¦           recipe-form.tsx
+¦   ¦           
+¦   +---46
+¦   ¦   +---9b05773a
+¦   ¦           recipe-form.tsx
+¦   ¦           
+¦   +---47
+¦   ¦   +---803136e8
+¦   ¦           recipe-results.tsx
+¦   ¦           
+¦   +---49
+¦   ¦   +---952b57c4
+¦   ¦           recipe-results.tsx
+¦   ¦           
+¦   +---5
+¦   ¦   +---19cc44cd
+¦   ¦           types.ts
+¦   ¦           
+¦   +---50
+¦   ¦   +---0a610a1d
+¦   ¦           recipe-results.tsx
+¦   ¦           
+¦   +---6
+¦   ¦   +---51dfe734
+¦   ¦           calculator.ts
+¦   ¦           
+¦   +---7
+¦   ¦   +---de329c40
+¦   ¦           storage.ts
+¦   ¦           
+¦   +---8
+¦   ¦   +---72995d10
+¦   ¦           recipe-form.tsx
+¦   ¦           
+¦   +---9
+¦       +---be394a8e
+¦               recipe-results.tsx
+¦               
++---build
+¦   +---v1
+¦   ¦   ¦   favicon.svg
+¦   ¦   ¦   index.html
+¦   ¦   ¦   robots.txt
+¦   ¦   ¦   
+¦   ¦   +---assets
+¦   ¦           index-4bd96eea.js
+¦   ¦           index-c23bccb6.css
+¦   ¦           
+¦   +---v2
+¦   ¦   ¦   favicon.svg
+¦   ¦   ¦   index.html
+¦   ¦   ¦   robots.txt
+¦   ¦   ¦   
+¦   ¦   +---assets
+¦   ¦           index-9a57213e.js
+¦   ¦           index-c23bccb6.css
+¦   ¦           
+¦   +---v3
+¦       ¦   favicon.svg
+¦       ¦   index.html
+¦       ¦   robots.txt
+¦       ¦   
+¦       +---assets
+¦               index-42df2603.js
+¦               index-92f92077.css
+¦               
++---cover
+¦       0c833240874347ad84d1091659ddb100.jpg
+¦       3bc13dd419df4df7b3458f56b66613a8.jpg
+¦       acb5a8a5e1b34ce0878a968270739820.jpg
+¦       fb8207201abf422b8884c3bd32e7e729.jpg
+¦       
++---workspace
+    ¦   .gitattributes
+    ¦   .gitignore
+    ¦   .MGXEnv.json
+    ¦   .timeline.json
+    ¦   .wiki.md
+    ¦   
+    +---.git
+    ¦   ¦   COMMIT_EDITMSG
+    ¦   ¦   config
+    ¦   ¦   description
+    ¦   ¦   HEAD
+    ¦   ¦   index
+    ¦   ¦   
+    ¦   +---branches
+    ¦   +---hooks
+    ¦   ¦       applypatch-msg.sample
+    ¦   ¦       commit-msg.sample
+    ¦   ¦       fsmonitor-watchman.sample
+    ¦   ¦       post-checkout
+    ¦   ¦       post-commit
+    ¦   ¦       post-merge
+    ¦   ¦       post-update.sample
+    ¦   ¦       pre-applypatch.sample
+    ¦   ¦       pre-commit.sample
+    ¦   ¦       pre-merge-commit.sample
+    ¦   ¦       pre-push
+    ¦   ¦       pre-push.sample
+    ¦   ¦       pre-rebase.sample
+    ¦   ¦       pre-receive.sample
+    ¦   ¦       prepare-commit-msg.sample
+    ¦   ¦       push-to-checkout.sample
+    ¦   ¦       update.sample
+    ¦   ¦       
+    ¦   +---info
+    ¦   ¦       exclude
+    ¦   ¦       
+    ¦   +---lfs
+    ¦   ¦   +---objects
+    ¦   ¦   ¦   +---8d
+    ¦   ¦   ¦       +---f0
+    ¦   ¦   ¦               8df022f5161c2127f7206c2ded797cb05ce82c26332b308bec193318148226ba
+    ¦   ¦   ¦               
+    ¦   ¦   +---tmp
+    ¦   +---logs
+    ¦   ¦   ¦   HEAD
+    ¦   ¦   ¦   
+    ¦   ¦   +---refs
+    ¦   ¦       +---heads
+    ¦   ¦               master
+    ¦   ¦               
+    ¦   +---objects
+    ¦   ¦   +---03
+    ¦   ¦   ¦       8f915bd4a7262ec4a8fef4d77e4988615fdb70
+    ¦   ¦   ¦       
+    ¦   ¦   +---05
+    ¦   ¦   ¦       eb0c33de15f17d2ec5e3ddcad5c3b952ccd157
+    ¦   ¦   ¦       
+    ¦   ¦   +---06
+    ¦   ¦   ¦       672a7e63dd2a8eaed5f91a0729eab1ea0b7d29
+    ¦   ¦   ¦       
+    ¦   ¦   +---08
+    ¦   ¦   ¦       8be714a714a13d716a56c38f0f5230d7895ceb
+    ¦   ¦   ¦       
+    ¦   ¦   +---09
+    ¦   ¦   ¦       021db3fc2ee2df378163bd8552f3ffa29be2f8
+    ¦   ¦   ¦       
+    ¦   ¦   +---0b
+    ¦   ¦   ¦       0e43e6bc8079ff97d899dddb025d5b09f20ee2
+    ¦   ¦   ¦       721df0280494a8bec96bf65034f2208e578dad
+    ¦   ¦   ¦       9837ada3fec478c8eae8ec8fc0338cee5f2425
+    ¦   ¦   ¦       
+    ¦   ¦   +---10
+    ¦   ¦   ¦       0159badcccbb7654efa0a1b2b3d75a571dcd87
+    ¦   ¦   ¦       
+    ¦   ¦   +---11
+    ¦   ¦   ¦       89bf0657e4d1f9898f1f6234c785b16cb596b6
+    ¦   ¦   ¦       f02fe2a0061d6e6e1f271b21da95423b448b32
+    ¦   ¦   ¦       
+    ¦   ¦   +---12
+    ¦   ¦   ¦       9b1a30fdbe84d753a2526f13a20e0857f420ba
+    ¦   ¦   ¦       
+    ¦   ¦   +---13
+    ¦   ¦   ¦       8c02a9bc1902de8e1a40d65cf906b99b52243a
+    ¦   ¦   ¦       
+    ¦   ¦   +---14
+    ¦   ¦   ¦       1aa1e568a7d87133bac50e959ddbf043b79481
+    ¦   ¦   ¦       
+    ¦   ¦   +---19
+    ¦   ¦   ¦       4422f85f7f2a91eeb2820b8a2a59d843381b11
+    ¦   ¦   ¦       
+    ¦   ¦   +---1d
+    ¦   ¦   ¦       80cffb16e0aed78dcfa029cbf79b4686c83189
+    ¦   ¦   ¦       
+    ¦   ¦   +---22
+    ¦   ¦   ¦       c0e52b98cf40bdabdb6195d707259db267ed36
+    ¦   ¦   ¦       db3a9fa9e5367a43cabfa397f62e54a7025ef1
+    ¦   ¦   ¦       
+    ¦   ¦   +---24
+    ¦   ¦   ¦       0949d3dabecd67e6c52aea3b5c27d8cd43d4f7
+    ¦   ¦   ¦       
+    ¦   ¦   +---26
+    ¦   ¦   ¦       7e081a479509397a2315d9879b32292cc549e8
+    ¦   ¦   ¦       
+    ¦   ¦   +---28
+    ¦   ¦   ¦       19a830d242f11fda91c4e8951794ab815cec77
+    ¦   ¦   ¦       
+    ¦   ¦   +---2e
+    ¦   ¦   ¦       7af2b7f1a6f391da1631d93968a9d487ba977d
+    ¦   ¦   ¦       
+    ¦   ¦   +---31
+    ¦   ¦   ¦       33162c20350e1741b94b8d2ff77b811bec8363
+    ¦   ¦   ¦       7ca720bb2dd4ffa61efe2c7b2528cd434a55c5
+    ¦   ¦   ¦       
+    ¦   ¦   +---33
+    ¦   ¦   ¦       10a7e17206b1a8de7a8503ef23f41f97d6eb9d
+    ¦   ¦   ¦       bc9e05e0a81b15dcf9a409acad2ac621541106
+    ¦   ¦   ¦       cfb00c186e6ef88779b82526e588fe6bfe9f2d
+    ¦   ¦   ¦       f3c17de1a06054f39c168450d978a616bcef46
+    ¦   ¦   ¦       
+    ¦   ¦   +---34
+    ¦   ¦   ¦       422b80496a435a8fbdcaa4f558ab209448ba3d
+    ¦   ¦   ¦       eeb3772fa4591699e34f894bb032cd21588353
+    ¦   ¦   ¦       
+    ¦   ¦   +---35
+    ¦   ¦   ¦       1b7f5f494c931cfa1cdf6d58650c9f88288e11
+    ¦   ¦   ¦       5bf52d0d11be9ec498c0342446d1ee170b1403
+    ¦   ¦   ¦       f6c8fabd48c305a4b78a530131150c09a1b91e
+    ¦   ¦   ¦       
+    ¦   ¦   +---38
+    ¦   ¦   ¦       4ddc8dc7991fbee6bdbbe0327ff261382410f8
+    ¦   ¦   ¦       
+    ¦   ¦   +---3c
+    ¦   ¦   ¦       2af77a78a49b643a0800c70994f6f784c1f8dd
+    ¦   ¦   ¦       
+    ¦   ¦   +---3f
+    ¦   ¦   ¦       8ac4823165bba5e31d22c299ee834f8120e374
+    ¦   ¦   ¦       
+    ¦   ¦   +---40
+    ¦   ¦   ¦       1c802bc07a51d5161d1179c819a2f88df04060
+    ¦   ¦   ¦       
+    ¦   ¦   +---41
+    ¦   ¦   ¦       2070cb36970a913037ee6af68c9ab07ee16612
+    ¦   ¦   ¦       
+    ¦   ¦   +---42
+    ¦   ¦   ¦       a3aa233d74e93b92228b1235a6a5b9024a0611
+    ¦   ¦   ¦       a8df596a25cd9ef6c4fdafdd8c0bccd8783068
+    ¦   ¦   ¦       
+    ¦   ¦   +---43
+    ¦   ¦   ¦       cc98f4b16da6b55cc443e175928289ee81cb00
+    ¦   ¦   ¦       ea3986d9fdfed61259d26f9cb99dbbd1e097b5
+    ¦   ¦   ¦       
+    ¦   ¦   +---44
+    ¦   ¦   ¦       fd3ea846775fc6efe07b92cac7508ca6ab91dc
+    ¦   ¦   ¦       
+    ¦   ¦   +---45
+    ¦   ¦   ¦       e4c83def91602adfffc4c4289cb7d9f10284ac
+    ¦   ¦   ¦       
+    ¦   ¦   +---48
+    ¦   ¦   ¦       b54175136594ec3efeef8686ce8efefc2d83fe
+    ¦   ¦   ¦       
+    ¦   ¦   +---4d
+    ¦   ¦   ¦       6c0f80952836c711e7b1c68da4dddf25d39090
+    ¦   ¦   ¦       
+    ¦   ¦   +---4e
+    ¦   ¦   ¦       ae79cc0c8cc5c6f6dfc3a569716c677739c33a
+    ¦   ¦   ¦       eb574801152d1da14af80e6051fd49e46d02c1
+    ¦   ¦   ¦       
+    ¦   ¦   +---50
+    ¦   ¦   ¦       01e3c27084950dadbab0e55388e50685d73735
+    ¦   ¦   ¦       
+    ¦   ¦   +---51
+    ¦   ¦   ¦       c866e4b41e58e3e8819deb5020dc3f693c7487
+    ¦   ¦   ¦       
+    ¦   ¦   +---52
+    ¦   ¦   ¦       bfbd0b131e07ba04a3ef74c754d1e1ba319ce7
+    ¦   ¦   ¦       
+    ¦   ¦   +---56
+    ¦   ¦   ¦       06cbb32e42a1c5df3cf257010063d4123f6275
+    ¦   ¦   ¦       102638d34e7da879c51ad185c2996f18c2b9d3
+    ¦   ¦   ¦       
+    ¦   ¦   +---5c
+    ¦   ¦   ¦       39501c2cd14567d19a70f7f5b3b44e6d832fff
+    ¦   ¦   ¦       69b20f3aa8ecced34eaad59408874e9c4e5bfb
+    ¦   ¦   ¦       
+    ¦   ¦   +---5d
+    ¦   ¦   ¦       fdf1e67a885c95b0e2993d8154c0e9f73ab2c4
+    ¦   ¦   ¦       
+    ¦   ¦   +---5e
+    ¦   ¦   ¦       4ae9bfafaca257ec3d51c83807f4f475ccecb1
+    ¦   ¦   ¦       
+    ¦   ¦   +---5f
+    ¦   ¦   ¦       2bcd9cb39024691644d11a8e499cf497208b18
+    ¦   ¦   ¦       6869ee7379f53a51fdaf85da26409ea6c3a80e
+    ¦   ¦   ¦       
+    ¦   ¦   +---62
+    ¦   ¦   ¦       56b043f41466cb9542c49a1d1d355991db8519
+    ¦   ¦   ¦       e101166a31ade477811bd31f6be1ae44d45423
+    ¦   ¦   ¦       
+    ¦   ¦   +---68
+    ¦   ¦   ¦       fd923ae35a7a30abb2e022f4eebfa3af6f8fc6
+    ¦   ¦   ¦       
+    ¦   ¦   +---6b
+    ¦   ¦   ¦       f2529caceb2bfdb590cab3e1c78a06337a2ef0
+    ¦   ¦   ¦       
+    ¦   ¦   +---6c
+    ¦   ¦   ¦       bb20e3ad13755e5d3360fbb573a4dba09cf1a3
+    ¦   ¦   ¦       
+    ¦   ¦   +---71
+    ¦   ¦   ¦       169d473c1c70b56c641e9d99f399d96d95bfae
+    ¦   ¦   ¦       45d9b40583029c2e57f81d4d246ac317ed996f
+    ¦   ¦   ¦       
+    ¦   ¦   +---72
+    ¦   ¦   ¦       3278d8db4fb436f98196060ed746cba59ed6da
+    ¦   ¦   ¦       
+    ¦   ¦   +---73
+    ¦   ¦   ¦       4fa5b92165b1b00e6ad8e2cb2ba81e0cb1bbef
+    ¦   ¦   ¦       
+    ¦   ¦   +---7b
+    ¦   ¦   ¦       5275225e4be12a11116e846c4870f394eafe2f
+    ¦   ¦   ¦       
+    ¦   ¦   +---7d
+    ¦   ¦   ¦       1bb6ed8a511eace0c1e5abacd1ec5646c464f7
+    ¦   ¦   ¦       
+    ¦   ¦   +---80
+    ¦   ¦   ¦       69501547cac2ab1e3ee9f8711554aaa45df3cb
+    ¦   ¦   ¦       cb3fa46a587f36ccc28fb546f74a0b738b3cd9
+    ¦   ¦   ¦       
+    ¦   ¦   +---81
+    ¦   ¦   ¦       e808adcea81a198e6e8be77eab447b6c5409ad
+    ¦   ¦   ¦       
+    ¦   ¦   +---84
+    ¦   ¦   ¦       d7a65e6f160cc56402277b1c118ea1bdfa4055
+    ¦   ¦   ¦       
+    ¦   ¦   +---85
+    ¦   ¦   ¦       9272ca87ed9c8a7897b176aac96a735759a7d9
+    ¦   ¦   ¦       
+    ¦   ¦   +---88
+    ¦   ¦   ¦       a1e1ed4b912b4978466b5cd83e1b00b49d111a
+    ¦   ¦   ¦       
+    ¦   ¦   +---8b
+    ¦   ¦   ¦       c7b3150614883155be56bbdaf1a28e92da8833
+    ¦   ¦   ¦       
+    ¦   ¦   +---8d
+    ¦   ¦   ¦       91adbdd1c689849c1d483018bdd82624159629
+    ¦   ¦   ¦       
+    ¦   ¦   +---93
+    ¦   ¦   ¦       6ba75abd62e6f5aaeea618b7fcd62a1ce14dac
+    ¦   ¦   ¦       76668a411b189ed10c78e48773c6488a85cfaa
+    ¦   ¦   ¦       
+    ¦   ¦   +---94
+    ¦   ¦   ¦       f201131142d34853d3e2414f81197c20209450
+    ¦   ¦   ¦       f2904a9b4775be4e599453ad2433f198c7d028
+    ¦   ¦   ¦       
+    ¦   ¦   +---96
+    ¦   ¦   ¦       05c4e41abfd8be42dbe550dce8851d9ae41151
+    ¦   ¦   ¦       
+    ¦   ¦   +---97
+    ¦   ¦   ¦       0ceb7db8461d84b9d67c15f8ee55bd35214f8c
+    ¦   ¦   ¦       
+    ¦   ¦   +---98
+    ¦   ¦   ¦       57ab5ec52b21ce9d9a70f549199b9b3e49b3d9
+    ¦   ¦   ¦       
+    ¦   ¦   +---9c
+    ¦   ¦   ¦       5ece77be71633193e90c329c6e6e6ffae57765
+    ¦   ¦   ¦       9a66506ce8b67a52936a8bff0c61ac3654c18b
+    ¦   ¦   ¦       
+    ¦   ¦   +---9d
+    ¦   ¦   ¦       4e6ca54a1f3bba062f5089986e8b5087235e70
+    ¦   ¦   ¦       
+    ¦   ¦   +---a4
+    ¦   ¦   ¦       e182591b9d46c9c047e8a14936f519afeb86e6
+    ¦   ¦   ¦       
+    ¦   ¦   +---a5
+    ¦   ¦   ¦       47bf36d8d11a4f89c59c144f24795749086dd1
+    ¦   ¦   ¦       
+    ¦   ¦   +---a6
+    ¦   ¦   ¦       636c68615be485012228449db833035451a66b
+    ¦   ¦   ¦       
+    ¦   ¦   +---a7
+    ¦   ¦   ¦       80b7ede0ce4db92f591b4b69fc7ff67ac1bf6c
+    ¦   ¦   ¦       
+    ¦   ¦   +---aa
+    ¦   ¦   ¦       742a9bbe9511c991c45d5e81dd2d1885850448
+    ¦   ¦   ¦       
+    ¦   ¦   +---ac
+    ¦   ¦   ¦       d03b3da602e5ca13df71741c40045fd125b711
+    ¦   ¦   ¦       
+    ¦   ¦   +---af
+    ¦   ¦   ¦       0ac0203776c7cf65fa482b5a8d330225e39c77
+    ¦   ¦   ¦       
+    ¦   ¦   +---b4
+    ¦   ¦   ¦       207f6206d770fde68111dbec1a3b157dea3e37
+    ¦   ¦   ¦       34fe4b84ff98bbec9c7bf2c70536033cd4ea1b
+    ¦   ¦   ¦       7c3443c9ea2c0aaa1cccbbc3c022174aa58aa8
+    ¦   ¦   ¦       
+    ¦   ¦   +---b5
+    ¦   ¦   ¦       05cae450e71f130dca9e933d2aca3b7cc6556d
+    ¦   ¦   ¦       
+    ¦   ¦   +---b9
+    ¦   ¦   ¦       41b6255a10b98cbeedf7d365257881359a5a97
+    ¦   ¦   ¦       
+    ¦   ¦   +---ba
+    ¦   ¦   ¦       553c6f5587ca60443a370f3bb0982f3b5fa06a
+    ¦   ¦   ¦       71b90f0ed44941674ed087ed4a5a2109849a18
+    ¦   ¦   ¦       
+    ¦   ¦   +---bc
+    ¦   ¦   ¦       e96e876186c6ff6635091e18381d358e760677
+    ¦   ¦   ¦       
+    ¦   ¦   +---bd
+    ¦   ¦   ¦       1f9997c1dbc0d6caa60bb1cd0bdc7a57fc56a4
+    ¦   ¦   ¦       
+    ¦   ¦   +---c0
+    ¦   ¦   ¦       350f8cfa06b75e78579f1e7afa48fc82e108c0
+    ¦   ¦   ¦       
+    ¦   ¦   +---c1
+    ¦   ¦   ¦       e4e805f36511812c2965229ecedb6aafc4b142
+    ¦   ¦   ¦       
+    ¦   ¦   +---c2
+    ¦   ¦   ¦       a49f4fb82f19ffa9089fcf8630e5a2870d3feb
+    ¦   ¦   ¦       
+    ¦   ¦   +---d1
+    ¦   ¦   ¦       83876fcb5d16cbf82f0324f85f556cd82dc8f7
+    ¦   ¦   ¦       87cab7ac1719c75c5e7527343807fa82f0b3bf
+    ¦   ¦   ¦       
+    ¦   ¦   +---d8
+    ¦   ¦   ¦       b192b790a8b2f6453d870aad053f76345b892c
+    ¦   ¦   ¦       
+    ¦   ¦   +---e1
+    ¦   ¦   ¦       e0c8c1c06f20430001b9f9bb5cf1937ba6dbc5
+    ¦   ¦   ¦       
+    ¦   ¦   +---e5
+    ¦   ¦   ¦       e58a8a3042ef8e6759ef82d9fb91e9d05d46b5
+    ¦   ¦   ¦       
+    ¦   ¦   +---e6
+    ¦   ¦   ¦       7846f70fbbe40407fc84875913595ab31c4a47
+    ¦   ¦   ¦       9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+    ¦   ¦   ¦       
+    ¦   ¦   +---e8
+    ¦   ¦   ¦       656cdfcab3bdc4c2b5d24a21271e4aa42b0a1f
+    ¦   ¦   ¦       
+    ¦   ¦   +---e9
+    ¦   ¦   ¦       49077b45a27807384f631ef93f0bf260c0aacc
+    ¦   ¦   ¦       d64f8e1815b56a26f95cf6965e1bd05da134fd
+    ¦   ¦   ¦       
+    ¦   ¦   +---f0
+    ¦   ¦   ¦       a2781765910f68129d41f8c347d4a87513dc24
+    ¦   ¦   ¦       
+    ¦   ¦   +---f9
+    ¦   ¦   ¦       855963402edcd6edf81e9cfa0e8d81caaeec9e
+    ¦   ¦   ¦       
+    ¦   ¦   +---fa
+    ¦   ¦   ¦       db9798f0ab31c2d6025fa836ae544e14a04870
+    ¦   ¦   ¦       
+    ¦   ¦   +---fb
+    ¦   ¦   ¦       02737f91f29d41790993f9aba0e1ef0a48b6e2
+    ¦   ¦   ¦       c7adc60e00d96395979361b42e3bdae5e8335e
+    ¦   ¦   ¦       
+    ¦   ¦   +---fe
+    ¦   ¦   ¦       90f82d955c2c3a314a521023ef8f06ff256033
+    ¦   ¦   ¦       ca274959e122a9cd18b14feabd3838fced8347
+    ¦   ¦   ¦       fe9ea74ff11ff28237367c9b306cacdbd8d7e7
+    ¦   ¦   ¦       
+    ¦   ¦   +---info
+    ¦   ¦   +---pack
+    ¦   +---refs
+    ¦       +---heads
+    ¦       ¦       master
+    ¦       ¦       
+    ¦       +---tags
+    ¦               v1
+    ¦               v2
+    ¦               v3
+    ¦               
+    +---.MGXTools
+    ¦       e6936281271244a1add1908456034ab5.json
+    ¦       
+    +---shadcn-ui
+        ¦   .gitignore
+        ¦   components.json
+        ¦   eslint.config.js
+        ¦   index.html
+        ¦   package.json
+        ¦   pnpm-lock.yaml
+        ¦   postcss.config.js
+        ¦   README.md
+        ¦   tailwind.config.ts
+        ¦   template_config.json
+        ¦   tsconfig.app.json
+        ¦   tsconfig.json
+        ¦   tsconfig.node.json
+        ¦   vite.config.ts
+        ¦   
+        +---.mgx
+        ¦       config.yaml
+        ¦       
+        +---dist
+        ¦   ¦   favicon.svg
+        ¦   ¦   index.html
+        ¦   ¦   robots.txt
+        ¦   ¦   
+        ¦   +---assets
+        ¦           index-113ffc3f.js
+        ¦           index-92f92077.css
+        ¦           
+        +---public
+        ¦       favicon.svg
+        ¦       robots.txt
+        ¦       
+        +---src
+            ¦   App.css
+            ¦   App.tsx
+            ¦   index.css
+            ¦   main.tsx
+            ¦   vite-env.d.ts
+            ¦   
+            +---components
+            ¦   ¦   recipe-form.tsx
+            ¦   ¦   recipe-results.tsx
+            ¦   ¦   
+            ¦   +---ui
+            ¦           accordion.tsx
+            ¦           alert-dialog.tsx
+            ¦           alert.tsx
+            ¦           aspect-ratio.tsx
+            ¦           avatar.tsx
+            ¦           badge.tsx
+            ¦           breadcrumb.tsx
+            ¦           button.tsx
+            ¦           calendar.tsx
+            ¦           card.tsx
+            ¦           carousel.tsx
+            ¦           chart.tsx
+            ¦           checkbox.tsx
+            ¦           collapsible.tsx
+            ¦           command.tsx
+            ¦           context-menu.tsx
+            ¦           dialog.tsx
+            ¦           drawer.tsx
+            ¦           dropdown-menu.tsx
+            ¦           form.tsx
+            ¦           hover-card.tsx
+            ¦           input-otp.tsx
+            ¦           input.tsx
+            ¦           label.tsx
+            ¦           menubar.tsx
+            ¦           navigation-menu.tsx
+            ¦           pagination.tsx
+            ¦           popover.tsx
+            ¦           progress.tsx
+            ¦           radio-group.tsx
+            ¦           resizable.tsx
+            ¦           scroll-area.tsx
+            ¦           select.tsx
+            ¦           separator.tsx
+            ¦           sheet.tsx
+            ¦           sidebar.tsx
+            ¦           skeleton.tsx
+            ¦           slider.tsx
+            ¦           sonner.tsx
+            ¦           switch.tsx
+            ¦           table.tsx
+            ¦           tabs.tsx
+            ¦           textarea.tsx
+            ¦           toast.tsx
+            ¦           toaster.tsx
+            ¦           toggle-group.tsx
+            ¦           toggle.tsx
+            ¦           tooltip.tsx
+            ¦           use-toast.ts
+            ¦           
+            +---hooks
+            ¦       use-mobile.tsx
+            ¦       use-toast.ts
+            ¦       
+            +---lib
+            ¦       calculator.ts
+            ¦       storage.ts
+            ¦       types.ts
+            ¦       utils.ts
+            ¦       
+            +---pages
+                    Index.tsx
+                    NotFound.tsx
+                    
